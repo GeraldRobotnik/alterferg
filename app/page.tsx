@@ -83,8 +83,8 @@ export default function Home() {
             </div>
 
             <p className="hero-copy">
-              A strange little pixel RPG is crawling out of the dark. Meet the
-              cast, hear the noise, and watch it come together on Scratch.
+              AlterFerg is an RPG about a paper frog named Ferg, dropped through
+              a mysterious rift into a world full of fun, different characters.
             </p>
 
             <div className="hero-actions">

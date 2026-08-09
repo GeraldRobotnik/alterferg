@@ -18,11 +18,12 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://alterferg.com"),
   title: "alterferg — Chapter 1 Coming Soon",
   description:
-    "Enter the world of alterferg. Meet the Chapter 1 cast, explore development leaks, and follow the upcoming Scratch game.",
+    "AlterFerg is an RPG about a paper frog named Ferg, dropped through a mysterious rift into a world full of fun, different characters.",
   alternates: { canonical: "/" },
   openGraph: {
     title: "alterferg — Chapter 1 Coming Soon",
-    description: "A strange little pixel RPG is crawling out of the dark.",
+    description:
+      "An RPG about a paper frog named Ferg, dropped through a mysterious rift into a world full of fun, different characters.",
     url: "https://alterferg.com",
     siteName: "alterferg",
     type: "website",
@@ -38,7 +39,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "alterferg — Chapter 1 Coming Soon",
-    description: "A strange little pixel RPG is crawling out of the dark.",
+    description:
+      "An RPG about a paper frog named Ferg, dropped through a mysterious rift into a world full of fun, different characters.",
     images: ["/og.jpg"],
   },
 };
